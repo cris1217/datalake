@@ -1,4 +1,4 @@
-package com.cris.datalake.hbasemodel;
+package com.cris.lake.utils;
 
 import java.util.ArrayList;
 import java.util.List;
